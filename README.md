@@ -21,9 +21,9 @@ My Piscine experience was both challenging and rewarding. It was my first experi
 
 I genuinely enjoyed 42’s peer to peer learning methodology. It pushed me out of my comfort zone, helping me to build communication and collaborative skills. Furthermore, it has allowed me to connect with and learn from many amazing people.
 
-Beyond the curriculum, the 42 Berlin campus is amazing as well. The campus is beautiful, well equipped with facilities, dog-friendly and supported by a fantastic team of staff members.
+Beyond the curriculum, the 42 Berlin campus is amazing as well. The campus is beautiful, well equipped with facilities, dog-friendly and supported by a fantastic team of staff members ✨
 
-For me, the Piscine wasn't just a coding bootcamp. It was also about becoming part of an inspiring and supportive community. I’m excited to continue my journey with 42 Berlin and see where it can take me!
+For me, the Piscine wasn't just a coding bootcamp. It was also about becoming part of an inspiring and supportive community ❤️ I’m excited to continue my journey with 42 Berlin and see where it can take me!
 
 ## Skills Developed
 ### Technical skills
