@@ -27,23 +27,23 @@ For me, the Piscine wasn't just a coding bootcamp. It was also about becoming pa
 
 ## Skills Developed
 ### Technical skills
-**C programming**
+- **C programming**
 
-**Shell**
+- **Shell**
 
-**Git**
+- **Git**
 
 ### Soft skills
-**Collaboration**
+- **Collaboration:**
 Every weekend, there will be “Rush”, a 48 hours group project. It requires working closely in teams, encouraging effective collaboration under time pressure.
 
-**Communication**
+- **Communication:**
 With 42’s emphasis on peer to peer learning, communication is essential. Each individual project whereby participants are required to explain their code clearly before passing. Group projects like the Rush also further reinforce the need for clear, respectful, and efficient communication
 
-**Time Management**
+- **Time Management:**
 The piscine does not have a fixed  deadlines or timetable. This means that participants must be accountable for their own progress and manage their time efficiently.
 
-**Proactiveness**
+- **Proactiveness:**
 Without teachers, learning at 42 requires a high level of initiative. Participants must actively seek out information, solve problems independently and help each other grow. This develops a strong sense of self-motivation, curiosity, and resourcefulness.
 
 
