@@ -41,7 +41,7 @@ Every weekend, there will be “Rush”, a 48 hours group project. It requires w
 With 42’s emphasis on peer to peer learning, communication is essential. Each individual project whereby participants are required to explain their code clearly before passing. Group projects like the Rush also further reinforce the need for clear, respectful, and efficient communication
 
 - **Time Management:**
-The piscine does not have a fixed  deadlines or timetable. This means that participants must be accountable for their own progress and manage their time efficiently.
+The Piscine does not have a fixed  deadlines or timetable. This means that participants must be accountable for their own progress and manage their time efficiently.
 
 - **Proactiveness:**
 Without teachers, learning at 42 requires a high level of initiative. Participants must actively seek out information, solve problems independently and help each other grow. This develops a strong sense of self-motivation, curiosity, and resourcefulness.
