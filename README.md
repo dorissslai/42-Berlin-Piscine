@@ -1,14 +1,14 @@
 # 42-Berlin-Piscine
 
-## About 42 School
+## 🏫 About 42 School
 42 School is a non-profit coding school that offers software development training completely tuition-free. It aims to  empower the next generation of coders through a more accessible and inclusive approach to tech education.
 
 First founded in Paris in 2013, 42 Schools educate their students to the equivalent of a master's degree and rely on peer learning methods that give each individual autonomy.
 
-## About Piscine
+## 🐟 About Piscine
 The Piscine is the last phase before full admission to the 42 School.  This intensive four-week program is used by various 42 campuses worldwide as both a selection process and a condensed introduction to their peer-to-peer learning methodology. It's designed to not just test participants' coding abilities, but also their adaptability in a collaborative environment. 
 
-## My Piscine Reflection
+## 📝 My Piscine Reflection
 I completed my Piscine at 42 Berlin from February-March 2025 and was successfully accepted into the school. 
 
 During the 4 weeks, I completed:
@@ -25,7 +25,7 @@ Beyond the curriculum, the 42 Berlin campus is amazing as well. The campus is be
 
 For me, the Piscine wasn't just a coding bootcamp. It was also about becoming part of an inspiring and supportive community ❤️ I’m excited to continue my journey with 42 Berlin and see where it can take me!
 
-## Skills Developed
+## 💻 Skills Developed
 ### Technical skills
 - **C programming**
 
