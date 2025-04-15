@@ -12,7 +12,7 @@ The Piscine is the last phase before full admission to the 42 School.  This inte
 I completed my Piscine at 42 Berlin from February-March 2025 and was successfully accepted into the school. 
 
 During the 4 weeks, I completed:
-- 2 Shell projects, 
+- 2 Shell projects 
 - 7 C projects
 - 2 Rush projects
 - 3/4 exams
