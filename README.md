@@ -28,10 +28,12 @@ For me, the Piscine wasn't just a coding bootcamp. It was also about becoming pa
 ## Skills Developed
 ### Technical skills
 **C programming**
+
 **Shell**
+
 **Git**
 
-###Soft skills
+### Soft skills
 **Collaboration**
 Every weekend, there will be “Rush”, a 48 hours group project. It requires working closely in teams, encouraging effective collaboration under time pressure.
 
